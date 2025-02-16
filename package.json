@@ -1,0 +1,27 @@
+{
+  "name": "erc20token",
+  "version": "1.0.0",
+  "description": "ERC20 Token",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VegaCrypto4/erc20token.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VegaCrypto4/erc20token/issues"
+  },
+  "homepage": "https://github.com/VegaCrypto4/erc20token#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.18"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.2.0"
+  }
+}
